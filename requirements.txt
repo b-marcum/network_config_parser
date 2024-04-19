@@ -1,0 +1,6 @@
+tabulate
+rich
+jupyter
+pandas
+ntc_templates
+openpyxl
